@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "ignoreDeprecations": "6.0", //suppresses the TypeScript warning you saw earlier.
     "baseUrl": ".",
     "paths": {
       "@/*": [
